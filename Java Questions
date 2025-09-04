@@ -1,0 +1,101 @@
+#	Problem	Feature / Concept
+1	Create a class BankAccount with deposit/withdraw methods and test concurrency using threads.	OOP + Concurrency
+2	Use record in Java 17 to create immutable Point(x,y) and calculate distance between two points.	Records
+3	Sort a list of employees by salary using Streams API.	Streams
+4	Detect palindrome words from a file using NIO.	File I/O + Streams
+5	Demonstrate sealed class hierarchy for Shape.	Sealed Classes
+6	Implement Fibonacci with recursion vs memoization.	Recursion
+7	Use switch expression to classify grades.	Switch Expressions
+8	Create a PriorityQueue demo with custom comparator.	Collections
+9	Simulate an ATM with exception handling for invalid inputs.	OOP + Exceptions
+10	Regex program to extract email IDs from text.	Regex
+11	Implement a cache using WeakHashMap.	Collections
+12	Build a console Tic-Tac-Toe game.	Mini Project
+13	Use pattern matching for instanceof.	Pattern Matching
+14	Parse CSV file into list of records using record.	Records + File I/O
+15	Handle null values safely with Optional.	Optionals
+16	Monitor a directory for file changes using WatchService.	NIO
+17	Demonstrate deadlock with two threads and resolve it.	Concurrency
+18	Implement LRU cache using LinkedHashMap.	Data Structures
+19	Fetch data from REST API using Java HttpClient.	Networking
+20	Implement quicksort recursively.	Sorting
+21	Balanced parentheses check using Stack.	Data Structures
+22	Flatten a list of lists using Streams.	Streams
+23	Implement word auto-complete using Trie.	Data Structures
+24	Build Hangman game in console.	Mini Project
+25	Calculate age from DOB using java.time.	Date-Time
+26	Sudoku solver using backtracking.	Algorithms
+27	Observer pattern for stock price updates.	Design Patterns
+28	Group employees by department using Streams.	Streams
+29	Merge two sorted arrays.	Arrays
+30	Binary to decimal and vice versa conversion.	Basics
+31	Validate strong passwords with regex.	Regex
+32	BFS & DFS traversal in a graph.	Graphs
+33	Run async tasks with CompletableFuture.	Concurrency
+34	Find second highest salary using Streams.	Streams
+35	Record with compact constructor demo.	Records
+36	Reverse words in a sentence without using library.	Strings
+37	Count character frequency using Map.	Collections
+38	Remove duplicates from list using Streams.	Streams
+39	Matrix multiplication of 2D arrays.	Arrays
+40	Implement stack from scratch.	Data Structures
+41	Implement queue from scratch.	Data Structures
+42	Count word frequency in file using Streams.	File I/O
+43	Serialize and deserialize object.	Serialization
+44	Simple calculator using switch expressions.	Switch
+45	Producer-consumer problem with BlockingQueue.	Concurrency
+46	Thread-safe Singleton implementation.	Design Patterns
+47	Implement insertion sort.	Sorting
+48	Implement selection sort.	Sorting
+49	Generate random numbers with RandomGenerator API.	New APIs
+50	Odd-even thread printing problem.	Concurrency
+51	Use Streams to partition numbers into odd/even.	Streams
+52	Validate phone numbers using regex.	Regex
+53	Create immutable Employee using record.	Records
+54	Rotate an array k times.	Arrays
+55	Find duplicate elements in array.	Arrays
+56	Find missing number in array sequence.	Arrays
+57	Check if two strings are anagrams.	Strings
+58	Shuffle and deal cards from deck.	Collections
+59	Use Streams reduce() to calculate product.	Streams
+60	Directory size calculator using NIO.	File I/O
+61	Implement bubble sort.	Sorting
+62	Implement heap sort.	Sorting
+63	Implement merge sort.	Sorting
+64	Count vowels and consonants in string.	Strings
+65	Find first non-repeating character.	Strings
+66	Find longest substring without repeating characters.	Strings
+67	Use Streams to join strings with delimiter.	Streams
+68	File compression and decompression with GZIP.	File I/O
+69	Strongly typed enums with extra fields.	Enums
+70	Directory copy using NIO.	File I/O
+71	Implement binary search tree.	Data Structures
+72	Level-order traversal of BST.	Data Structures
+73	Detect cycle in linked list.	Data Structures
+74	Find middle of linked list.	Data Structures
+75	Implement circular queue.	Data Structures
+76	Simple hotel reservation system in console.	Mini Project
+77	Parallel Streams to process dataset.	Streams
+78	Word counter ignoring stop words.	Streams
+79	Tower of Hanoi problem.	Recursion
+80	Use CompletableFuture with timeout.	Concurrency
+81	Dining philosophers problem simulation.	Concurrency
+82	Implement a countdown latch example.	Concurrency
+83	Thread-safe counter with AtomicInteger.	Concurrency
+84	Directory search for a keyword using NIO.	File I/O
+85	Build a Minesweeper console game.	Mini Project
+86	HashMap vs TreeMap performance test.	Collections
+87	Implement Set operations (union, intersection, diff).	Collections
+88	Parse multi-line JSON using text blocks.	Text Blocks
+89	Use Regex to find hashtags in text.	Regex
+90	Implement Trie dictionary with insert/search.	Data Structures
+91	Count palindromes in a text file.	File I/O
+92	Build a URL shortener algorithm.	Algorithms
+93	Use Streams map/filter to transform list.	Streams
+94	Check Armstrong numbers in given range.	Math
+95	Generate Pascal’s triangle.	Math
+96	Simple payroll system with OOP.	OOP
+97	Implement HashTable manually.	Data Structures
+98	Multi-threaded word counter for large file.	Concurrency
+99	Thread-safe bounded buffer implementation.	Concurrency
+100	Flight reservation console system.	Capstone Project
